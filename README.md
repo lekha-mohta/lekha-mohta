@@ -56,7 +56,7 @@ My interests lie at the intersection of finance and technology, and I'm eager to
 - **Cloud Based Data Management System:**  
   Developed a data management system for the Advanced Polymer Sintering Laboratory at the University of Sheffield. Focused on the storage of material, build, and CAD file tracking using **Ruby on Rails**, **Sequel**, and **Agile methodologies**.
 
-- **Systems Design & Security:**  
+- **Inventory Management System:**  
   Developed an inventory management system for all products of "Train Sheffield" using **Java** and **MySQL**, conducting over 40 SQL injection tests for data security.
 
 - **Chessboard Classifier:**  
