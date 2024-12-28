@@ -46,7 +46,7 @@ My interests lie at the intersection of finance and technology, and I'm eager to
 - **Speech Processing Using Python:**
   - Implementing and analyzed various speech processing techniques, including speech recognition, signal filtering, spectogram analysis, using **Python** based tools and libraries.
   - Available on request.
-- **Bio-inspired Computing:**
+- **Forest Fire Modelling using Cellular Automata:**
   - Modelled a forest fire using Cellular Automata considering different ignition probablities and burning times for various terrains and how external factors affect forest spread using **Python**. 
 - **Software Hut Cloud Platform:**
   - Developed a data management system for the Advanced Polymer Sintering Laboratory at the University of Sheffield. Focused on the storage of material, build, and CAD file tracking using **Ruby on Rails**, **Sequel** and **Agile methodologies**.
