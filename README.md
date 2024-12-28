@@ -45,7 +45,7 @@ My interests lie at the intersection of finance and technology, and I'm eager to
   - Implemented an Information Retrieval System aiming to processes a document collection represented as an inverted index to efficiently retrieve documents relevant to a query using **Python**. 
 - **Speech Processing Using Python:**
   - Implementing and analyzed various speech processing techniques, including speech recognition, signal filtering, spectogram analysis, using **Python** based tools and libraries.
-  - Available on request,
+  - Available on request.
 - **Bio-inspired Computing:**
   - Modelled a forest fire using Cellular Automata considering different ignition probablities and burning times for various terrains and how external factors affect forest spread using **Python**. 
 - **Software Hut Cloud Platform:**
