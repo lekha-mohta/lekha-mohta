@@ -42,7 +42,7 @@ My interests lie at the intersection of finance and technology, and I'm eager to
 - **Undergraduate Dissertation:**
   - Researching the security of Underwater Acoustic Sensor Networks (UW-ASN’s) by simulating threat attacks, identifying network vulnerabilities, and optimizing Intrusion Detection System placement for enhanced threat detection.
 - **Document Retrieval:** 
-  - Implemented an Information Retreival System aiming to processes a document collection represented as an inverted index to efficiently retrieve documents relevant to a query using **Python**. 
+  - Implemented an Information Retrieval System aiming to processes a document collection represented as an inverted index to efficiently retrieve documents relevant to a query using **Python**. 
 - **Speech Processing Using Python:**
   - Implementing and analyzed various speech processing techniques, including speech recognition, signal filtering, spectogram analysis, using **Python** based tools and libraries. 
 - **Bio-inspired Computing:**
