@@ -53,7 +53,7 @@ My interests lie at the intersection of finance and technology, and I'm eager to
 - **Forest Fire Modelling using Cellular Automata:**  
   Modeled a forest fire using Cellular Automata considering different ignition probabilities and burning times for various terrains and how external factors affect forest spread using **Python**.
 
-- **Software Hut Cloud Platform:**  
+- **Cloud Based Data Management System:**  
   Developed a data management system for the Advanced Polymer Sintering Laboratory at the University of Sheffield. Focused on the storage of material, build, and CAD file tracking using **Ruby on Rails**, **Sequel**, and **Agile methodologies**.
 
 - **Systems Design & Security:**  
