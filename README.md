@@ -70,3 +70,6 @@ My interests lie at the intersection of finance and technology, and I'm eager to
 
 - **Java Programming:**  
   Multiple small projects including weights on different planets based on gravity, creating a seasonal forest picture, Cluedo game, and football player dashboard using **Java**.
+
+- **Self Portfolio:**
+  Created a personal portfolio to showcase my degree program and skill set, adhering to accessibility standards using **HTML and CSS**. 
